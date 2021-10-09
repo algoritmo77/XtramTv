@@ -17,3 +17,5 @@ http://tv.lklix.com:8080/PILAS/PilaS/46300
 http://tv.lklix.com:8080/PILAS/PilaS/46723
 #EXTINF:-1 tvg-id="" tvg-name="Canal Uno" tvg-logo="http://tv.lklix.com:8080/images/1eaa8bb195869a23f081acbb5bf08527.png" group-title="Ecuador",Canal Uno
 https://bit.ly/3mv9pQs
+#EXTINF:-1 tvg-id="" tvg-name="Ip Man 3 (2015)" tvg-logo="http://tv.lklix.com:8080/images/c3e803a4b62ac071fee0b1ceb44afa47.jpg" group-title="Accion",Ip Man 3 (2015)
+https://bit.ly/2WVSwpf
